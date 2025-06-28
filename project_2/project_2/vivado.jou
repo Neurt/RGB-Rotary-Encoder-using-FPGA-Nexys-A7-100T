@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Jan 10 09:09:00 2024
+# Process ID: 21268
+# Current directory: C:/Users/Neutral/Documents/TR sisdig/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8892 C:\Users\Neutral\Documents\TR sisdig\project_2\project_2.xpr
+# Log file: C:/Users/Neutral/Documents/TR sisdig/project_2/vivado.log
+# Journal file: C:/Users/Neutral/Documents/TR sisdig/project_2\vivado.jou
+# Running On: LAPTOP-LJSKPGIK, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16476 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Neutral/Documents/TR sisdig/project_2/project_2.xpr}
+update_compile_order -fileset sources_1
+synth_design -rtl -rtl_skip_mlo -name rtl_1
